@@ -5,7 +5,7 @@ sub folders of your choice.
 **Current version v1.0, only compatible with Windows OS**
 
 ## Installation :
-- Download and Extract the PhotoOrganizer.7z folder onto your system. :open_file_folder:
+- Download and Extract the [PhotoOrganizer.7z](https://github.com/mochatek/Photo_Organizer/blob/master/PhotoOrganizer.7z) folder onto your system. :open_file_folder:
 > You can download 7Zip for extraction from [here](https://www.7-zip.org/download.html)
 - Run **PhotoOrganizer.exe** voila!!!! :v:
 
