@@ -25,7 +25,7 @@ sub folders of your choice.
 
 ![screenshot 1](https://github.com/mochatek/Photo_Organizer/blob/master/3.PNG)
 
-`You can review your choice for every image using the <- and ->: buttons.`
+`You can review your choice for every image using the <- and -> buttons.`
 
 - **STEP 4 :** Once you are finished, click the "SORT" button to start sorting images according to the choices you have made.
 
@@ -34,7 +34,8 @@ sub folders of your choice.
 `Once sorting is completed, it will open the output folder for you.`
 `Output folder will be created at Desktop.`
 
-**Source code available at **[Photo_Organizer.py](https://github.com/mochatek/Photo_Organizer/blob/master/k/Photo_Organizer.py)
-`UI file and resource files needed to run it can be found inside the extracted folder - PhotoOrganizer.`
+#### Source code available at [Photo_Organizer.py](https://github.com/mochatek/Photo_Organizer/blob/master/k/Photo_Organizer.py)
+
+`UI file and resource files needed to run it can be found inside the extracted folder - "PhotoOrganizer".`
 
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
