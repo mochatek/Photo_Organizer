@@ -6,7 +6,7 @@ sub folders of your choice.
 
 ## Installation :
 - Download and Extract the PhotoOrganizer.7z folder onto your system. :open_file_folder:
-- > You can download 7Zip for extraction from [here](https://www.7-zip.org/download.html)
+> You can download 7Zip for extraction from [here](https://www.7-zip.org/download.html)
 - Run **PhotoOrganizer.exe** voila!!!! :v:
 
 ### User Manual :
