@@ -8,7 +8,7 @@ sub folders of your choice.
 - Download and Extract the PhotoOrganizer.zip folder onto your system. :open_file_folder:
 - Run **PhotoOrganizer.exe** voila!!!! :v:
 
-### Screenshots :
+### User Manual :
 - **STEP 1 :** Browse the images folder which you want to sort.
 
 ![screenshot 1](https://github.com/mochatek/Photo_Organizer/blob/master/1.PNG)
