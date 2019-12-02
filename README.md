@@ -37,6 +37,6 @@ sub folders of your choice.
 
 #### Source code available at [Photo_Organizer.py](https://github.com/mochatek/Photo_Organizer/blob/master/k/Photo_Organizer.py)
 
-`UI file and resource files needed to run it can be found inside the extracted folder - "PhotoOrganizer".`
+`UI file and resource files needed to run it must also be downloaded.`
 
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
